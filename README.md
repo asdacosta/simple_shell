@@ -265,8 +265,8 @@ $
 
 ## Authors & Copyrights
 
-* Luis chaparro <[luischaparroc](https://github.com/luischaparroc)>
-* Edward Ortiz <[edward0rtiz](https://github.com/edward0rtiz)>
+* Dacosta Silvanus <[asdacosta](https://github.com/asdacosta)>
+* Ogwugwa Chuks <[Chuks2121](https://github.com/Chuks2121)>
 
 ## More information
 
